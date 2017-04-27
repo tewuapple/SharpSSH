@@ -1,0 +1,5 @@
+C:\Users\ziqiang.sun\Downloads\SharpSSH-1.1.1.13.src\bin\Release\Tamir.SharpSSH.dll
+C:\Users\ziqiang.sun\Downloads\SharpSSH-1.1.1.13.src\SharpSSH\obj\Release\SharpSSH.csprojResolveAssemblyReference.cache
+C:\Users\ziqiang.sun\Downloads\SharpSSH-1.1.1.13.src\SharpSSH\obj\Release\Tamir.SharpSsh.jsch.examples.InputForm.resources
+C:\Users\ziqiang.sun\Downloads\SharpSSH-1.1.1.13.src\SharpSSH\obj\Release\SharpSSH.csproj.GenerateResource.Cache
+C:\Users\ziqiang.sun\Downloads\SharpSSH-1.1.1.13.src\SharpSSH\obj\Release\Tamir.SharpSSH.dll

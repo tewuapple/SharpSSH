@@ -1,0 +1,7 @@
+C:\Users\ziqiang.sun\Downloads\SharpSSH-1.1.1.13.src\Examples\obj\Debug\sharpSshTest.jsch_samples.InputForm.resources
+C:\Users\ziqiang.sun\Downloads\SharpSSH-1.1.1.13.src\Examples\obj\Debug\Examples.csproj.GenerateResource.Cache
+C:\Users\ziqiang.sun\Downloads\SharpSSH-1.1.1.13.src\bin\Debug\sharpSshTest.exe
+C:\Users\ziqiang.sun\Downloads\SharpSSH-1.1.1.13.src\bin\Debug\sharpSshTest.pdb
+C:\Users\ziqiang.sun\Downloads\SharpSSH-1.1.1.13.src\Examples\obj\Debug\Examples.csprojResolveAssemblyReference.cache
+C:\Users\ziqiang.sun\Downloads\SharpSSH-1.1.1.13.src\Examples\obj\Debug\sharpSshTest.exe
+C:\Users\ziqiang.sun\Downloads\SharpSSH-1.1.1.13.src\Examples\obj\Debug\sharpSshTest.pdb
